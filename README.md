@@ -25,5 +25,5 @@ I selected 8 neurons per layer, three hidden layers, and the relu functions to t
 No, [as seen here](https://github.com/LaurenSonis/Neural_Network_Charity_Analysis/blob/main/2021-04-18%20(6).png), but I made three attempts.
 
 * What steps did you take to try and increase model performance?
-I removed noisy variables from features, added neurons to hidden layers, added hidden layers, and changed the activation function of output layers is changed for optimization [as pictured here]().
+I removed noisy variables from features, added neurons to hidden layers, added hidden layers, and changed the activation function of output layers is changed for optimization [as pictured here](https://github.com/LaurenSonis/Neural_Network_Charity_Analysis/blob/main/2021-04-18%20(5).png).
 
