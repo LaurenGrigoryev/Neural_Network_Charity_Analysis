@@ -11,7 +11,7 @@ The purpose of this analysis was to create a binary classifier that is capable o
 The target of my model is variable IS_SUCCESSFUL [as pictured here](https://github.com/LaurenSonis/Neural_Network_Charity_Analysis/blob/main/2021-04-18%20(3).png).
 
 * What variable(s) are considered to be the features for your model?
-The features of my model are variables APPLICATION_TYPE, AFFILIATION,	CLASSIFICATION,	USE_CASE,	ORGANIZATION,	STATUS,	INCOME_AMT,	ASK_AMT,	IS_SUCCESSFUL [as pictured here]().
+The features of my model are variables APPLICATION_TYPE, AFFILIATION,	CLASSIFICATION,	USE_CASE,	ORGANIZATION,	STATUS,	INCOME_AMT,	ASK_AMT,	IS_SUCCESSFUL [as pictured here](https://github.com/LaurenSonis/Neural_Network_Charity_Analysis/blob/main/2021-04-18%20(4).png).
 
 * What variable(s) are neither targets nor features, and should be removed from the input data?
 The variables that are neither targets nor features are EIN, NAME, and SPECIAL_CONSIDERATIONS [as pictured here](https://github.com/LaurenSonis/Neural_Network_Charity_Analysis/blob/main/2021-04-18%20(4).png). 
