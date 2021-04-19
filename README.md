@@ -14,7 +14,7 @@ The target of my model is variable IS_SUCCESSFUL [as pictured here]().
 The features of my model are variables APPLICATION_TYPE, AFFILIATION,	CLASSIFICATION,	USE_CASE,	ORGANIZATION,	STATUS,	INCOME_AMT,	ASK_AMT,	IS_SUCCESSFUL [as pictured here]().
 
 * What variable(s) are neither targets nor features, and should be removed from the input data?
-The variables that are neither targets nor features are EIN, NAME, and SPECIAL_CONSIDERATIONS [as pictured here](). 
+The variables that are neither targets nor features are EIN, NAME, and SPECIAL_CONSIDERATIONS [as pictured here](https://github.com/LaurenSonis/Neural_Network_Charity_Analysis/blob/main/2021-04-18%20(4).png). 
 
 ### Compiling, Training, and Evaluating the Model
 
